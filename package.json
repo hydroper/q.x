@@ -9,6 +9,7 @@
   "dependencies": {
     "q.helpers": "file:./q.helpers"
   },
+  "type": "module",
   "keywords": [],
   "author": "",
   "license": "ISC"
