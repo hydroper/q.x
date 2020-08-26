@@ -1,16 +1,13 @@
 {
-  "name": "x",
+  "name": "q.helpers.foo",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "q.helpers": "file:./q.helpers"
-  },
-  "type": "module",
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "type": "module"
 }
